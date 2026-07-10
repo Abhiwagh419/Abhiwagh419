@@ -6,7 +6,7 @@
 
 # Abhishek Wagh
 
-**Co-founder & CEO, BlueHorizon — Building InterVue**
+**Co-founder & CEO, BlueHorizon**
 
 <br/>
 
@@ -29,10 +29,10 @@
 
 ## About
 
-I'm a Computer Engineering diploma student at Government Polytechnic Mumbai, and co-founder & CEO of **BlueHorizon**, where I'm building **InterVue** with my co-founder. I design and ship complete systems — schema to deployment — favoring production-grade architecture over tutorial-style projects.
+I'm a Computer Engineering diploma student at Government Polytechnic Mumbai, and Co-founder & CEO of **BlueHorizon**. I design and ship complete systems — schema to deployment — favoring production-grade architecture over tutorial-style projects.
 
-- Building **InterVue** at BlueHorizon
-- Shipped **QuickConcession** and **TubeBrief AI** solo, full-stack
+- Shipped **InterVue**, **QuickConcession**, and **TubeBrief AI** — full-stack, end to end
+- Currently building a new project
 - Focused on backend architecture, secure auth design, and system design fundamentals
 - **wabhi2009@gmail.com**
 
@@ -96,7 +96,7 @@ Paste a YouTube link, get an AI-generated summary and a live audience sentiment 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhiwagh419&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhiwagh419&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB&text_color=C9D1D9&cache_seconds=86400"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiwagh419&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"/>
 
 </div>
