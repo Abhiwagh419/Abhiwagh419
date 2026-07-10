@@ -1,81 +1,115 @@
-# Abhishek Chintamani Wagh
+<div align="center">
 
-Computer Engineering student focused on building full-stack, production-oriented systems rather than tutorial projects.
+<img src="https://wsrv.nl/?url=github.com/Abhiwagh419.png&w=160&h=160&fit=cover&mask=circle&maxage=1d" width="140"/>
 
-**Email:** wabhi2009@gmail.com
+<br/><br/>
 
----
+# Abhishek Wagh
+
+**Co-founder & CEO, BlueHorizon — Building InterVue**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/abhishek-wagh-6a2b5332b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/mr_abhishek_wagh/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:wabhi2009@gmail.com">
+<img src="https://img.shields.io/badge/Email-171515?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://quickconcession.online">
+<img src="https://img.shields.io/badge/QuickConcession-Live-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 ## About
 
-- Currently building: a Society Management application
-- Currently pursuing: Diploma in Computer Engineering
-- Background: designing and shipping complete full-stack systems end-to-end — database, backend, frontend, and deployment
-- Interests: backend architecture, cloud infrastructure, and applied software engineering
+I'm a Computer Engineering diploma student at Government Polytechnic Mumbai, and co-founder & CEO of **BlueHorizon**, where I'm building **InterVue** with my co-founder. I design and ship complete systems — schema to deployment — favoring production-grade architecture over tutorial-style projects.
 
----
+- Building **InterVue** at BlueHorizon
+- Shipped **QuickConcession** and **TubeBrief AI** solo, full-stack
+- Focused on backend architecture, secure auth design, and system design fundamentals
+- **wabhi2009@gmail.com**
 
-## Connect
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-wagh-6a2b5332b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_abhishek_wagh)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AI-Stream_Official)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wabhi2009@gmail.com)
+## Featured Work
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### QuickConcession
+Full-stack railway concession management platform for Government Polytechnic Mumbai — replacing a manual, paper-based process with a secure, role-based system across Student, Staff, and Admin tiers.
+
+**Highlights:** OTP-verified auth · real-time chat · bulk CSV import with validation · automated concession expiry via cron
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Firebase`
+
+**[Live →](https://quickconcession.online)**
+
+</td>
+<td width="50%" valign="top">
+
+### TubeBrief AI
+Paste a YouTube link, get an AI-generated summary and a live audience sentiment breakdown — no watching required.
+
+**Highlights:** Gemini 2.5 Flash summarization · VADER sentiment scoring on top comments · YouTube Data API metadata
+
+`Python` `Flask` `Gemini API` `VADER Sentiment`
+
+**[Repo →](https://github.com/Abhiwagh419/TubeBrief-AI)**
+
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
-**Languages**
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center">
 
-**Frontend**
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-A08021?style=for-the-badge&logo=firebase&logoColor=FFCD34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+</div>
 
-**Cloud & Infrastructure**
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+<br/>
 
-**Tools**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
+## GitHub Stats
 
----
+<div align="center">
 
-## GitHub Statistics
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhiwagh419&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiwagh419&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhiwagh419&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+</div>
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Abhiwagh419&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiwagh419&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abhiwagh419&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### Most Contributed Repository
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Abhiwagh419&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Abhiwagh419&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+**Abhishek Wagh** &nbsp;·&nbsp; Co-founder & CEO, BlueHorizon
+&nbsp;|&nbsp; [wabhi2009@gmail.com](mailto:wabhi2009@gmail.com)
+&nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abhishek-wagh-6a2b5332b/)
+&nbsp;|&nbsp; [Instagram](https://www.instagram.com/mr_abhishek_wagh/)
+
+</div>
