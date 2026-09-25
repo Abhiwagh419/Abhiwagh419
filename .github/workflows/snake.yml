@@ -1,7 +1,3 @@
-# Save this file as: .github/workflows/snake.yml in your Abhiwagh419/Abhiwagh419 repo
-# This is a SEPARATE workflow from metrics.yml — add both files, they don't conflict.
-# No token/secret needed for this one, it just needs write access to push the generated file.
-
 name: Generate Snake
 
 on:
