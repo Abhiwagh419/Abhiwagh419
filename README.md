@@ -31,7 +31,7 @@
 
 I'm a Computer Engineering diploma student at Government Polytechnic Mumbai, and Co-founder & CEO of **BlueHorizon**. I design and ship complete systems — schema to deployment — favoring production-grade architecture over tutorial-style projects.
 
-- Shipped **InterVue**, **QuickConcession**, and **TubeBrief AI** — full-stack, end to end
+- Shipped **InterVue** and **QuickConcession** — full-stack, end to end
 - Currently building a new project
 - Focused on backend architecture, secure auth design, and system design fundamentals
 - **wabhi2009@gmail.com**
@@ -39,10 +39,6 @@ I'm a Computer Engineering diploma student at Government Polytechnic Mumbai, and
 <br/>
 
 ## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### QuickConcession
 Full-stack railway concession management platform for Government Polytechnic Mumbai — replacing a manual, paper-based process with a secure, role-based system across Student, Staff, and Admin tiers.
@@ -53,21 +49,7 @@ Full-stack railway concession management platform for Government Polytechnic Mum
 
 **[Live →](https://quickconcession.online)**
 
-</td>
-<td width="50%" valign="top">
-
-### TubeBrief AI
-Paste a YouTube link, get an AI-generated summary and a live audience sentiment breakdown — no watching required.
-
-**Highlights:** Gemini 2.5 Flash summarization · VADER sentiment scoring on top comments · YouTube Data API metadata
-
-`Python` `Flask` `Gemini API` `VADER Sentiment`
-
-**[Repo →](https://github.com/Abhiwagh419/TubeBrief-AI)**
-
-</td>
-</tr>
-</table>
+<br/>
 
 ## Tech Stack
 
@@ -87,6 +69,25 @@ Paste a YouTube link, get an AI-generated summary and a live audience sentiment 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+<!-- These render live, pulled straight from your GitHub data — see metrics.yml setup below -->
+<img src="./metrics.calendar.svg" alt="Isometric contribution calendar"/>
+
+<br/>
+
+<img src="./metrics.languages.svg" alt="Most used languages"/>
+
+<br/>
+
+<img src="./metrics.languages.recent.svg" alt="Recently used languages"/>
 
 </div>
 
