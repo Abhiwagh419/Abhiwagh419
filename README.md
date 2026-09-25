@@ -88,11 +88,17 @@ Full-stack railway concession management platform for Government Polytechnic Mum
 
 <br/>
 
-## Activity
+## Stats & Activity
 
 <div align="center">
 
-<!-- These render live, pulled from your real GitHub data — see metrics.yml setup below -->
+<!-- All of these are generated once by metrics.yml and committed as static files —
+     they never depend on a third-party server being up when someone views your profile. -->
+
+<img src="./metrics.stats.svg" alt="GitHub profile overview"/>
+
+<br/>
+
 <img src="./metrics.calendar.svg" alt="Isometric contribution calendar"/>
 
 <br/>
@@ -103,34 +109,19 @@ Full-stack railway concession management platform for Government Polytechnic Mum
 
 <img src="./metrics.languages.recent.svg" alt="Recently used languages"/>
 
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhiwagh419&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=2563EB&text_color=C9D1D9&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiwagh419&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&cache_seconds=86400"/>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Abhiwagh419&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiwagh419&theme=react-dark&hide_border=true&bg_color=0D1117&color=60A5FA&line=2563EB&point=C9D1D9"/>
-
 </div>
 
 <br/>
 
-## Trophies
+## Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abhiwagh419&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="./metrics.achievements.svg" alt="GitHub achievements"/>
 
 </div>
 
