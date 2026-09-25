@@ -1,0 +1,33 @@
+# Save this file as: .github/workflows/snake.yml in your Abhiwagh419/Abhiwagh419 repo
+# This is a SEPARATE workflow from metrics.yml — add both files, they don't conflict.
+# No token/secret needed for this one, it just needs write access to push the generated file.
+
+name: Generate Snake
+
+on:
+  schedule: [{ cron: "0 */6 * * *" }]  # refresh every 6 hours
+  workflow_dispatch:
+  push: { branches: ["main", "master"] }
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Abhiwagh419
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated files to a dedicated branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
