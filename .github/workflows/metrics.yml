@@ -1,11 +1,23 @@
+# Save this file as: .github/workflows/metrics.yml in your Abhiwagh419/Abhiwagh419 repo
+#
+# Setup (5 min):
+# 1. Create a repo named exactly "Abhiwagh419" (must match your username) if you don't have one.
+# 2. Generate a GitHub Personal Access Token (classic): Settings > Developer settings > 
+#    Personal access tokens > Tokens (classic) > Generate new token
+#    Scopes needed: repo, read:user, read:org (if you want org stats)
+# 3. In the Abhiwagh419/Abhiwagh419 repo: Settings > Secrets and variables > Actions
+#    > New repository secret > name it METRICS_TOKEN, paste the token value.
+# 4. Add this file, commit, push. It runs immediately on push, then daily at midnight UTC.
+# 5. The generated SVGs (metrics.calendar.svg, metrics.languages.svg, metrics.languages.recent.svg)
+#    get committed back to your repo root automatically — README.md below already links to them.
 
 name: Metrics
- 
+
 on:
   schedule: [{ cron: "0 0 * * *" }]   # refresh once a day
   workflow_dispatch:                  # lets you trigger it manually from the Actions tab
   push: { branches: ["main", "master"] }
- 
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -21,7 +33,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
- 
+
       # 2) Most-used languages, overall, with real byte/line stats
       - name: Most used languages
         uses: lowlighter/metrics@latest
@@ -33,7 +45,7 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, lines
           plugin_languages_limit: 8
- 
+
       # 3) Recently used languages, from the last 14 days of activity
       - name: Recently used languages
         uses: lowlighter/metrics@latest
@@ -47,4 +59,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
- 
