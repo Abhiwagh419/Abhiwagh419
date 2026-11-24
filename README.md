@@ -1,139 +1,62 @@
-<div align="center">
-
-<img src="https://wsrv.nl/?url=github.com/Abhiwagh419.png&w=160&h=160&fit=cover&mask=circle&maxage=1d" width="140"/>
-
-<br/><br/>
-
 # Abhishek Wagh
 
-**Computer Engineering Student · Full-Stack Developer**
+**Computer Engineering Student · Mumbai, India**
 
-<br/>
+I build software projects across web development, backend systems and AI/ML. Most of my work involves experimenting with different technologies and turning ideas into working applications.
 
-<a href="https://www.linkedin.com/in/abhishek-wagh-6a2b5332b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/mr_abhishek_wagh/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:wabhi2009@gmail.com">
-<img src="https://img.shields.io/badge/Email-171515?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://quickconcession.online">
-<img src="https://img.shields.io/badge/QuickConcession-Live-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+## Projects
 
-</div>
+### [QuickConcession](https://quickconcession.online)
+Student railway concession management system.
+- Student, staff and admin workflows
+- Application processing, authentication and reporting
+- React, TypeScript, Node.js, PostgreSQL
 
-<br/>
+### [MadeForYou](https://github.com/Abhiwagh419/MadeForYou)
+A no-code platform for creating personal tribute pages.
+- Visual editor, reusable templates and content blocks
+- TypeScript, React, Hono, Cloudflare D1
 
-## About
+### [Chinuuu](https://github.com/Abhiwagh419/Chinuuu)
+A local-first personal AI assistant for Windows.
+- Local LLM integration and persistent memory
+- Tool execution, document retrieval and desktop automation
+- Python, Ollama, SQLite
 
-I'm a Computer Engineering diploma student at Government Polytechnic Mumbai. I design and ship complete systems — schema to deployment — favoring production-grade architecture over tutorial-style projects.
+### [FakeDetect](https://github.com/Abhiwagh419/FakeDetect)
+AI-generated image detection and digital forensics.
+- ResNet18 image classification
+- Grad-CAM and image metadata analysis
+- Python, PyTorch, Flask, OpenCV
 
-- Shipped **InterVue** and **QuickConcession** — full-stack, end to end
-- Currently building a new project
-- Focused on backend architecture, secure auth design, and system design fundamentals
-- **wabhi2009@gmail.com**
+### [InterVue](https://intervue.site)
+AI-assisted recruitment and technical interview platform.
+- Applicant management and collaborative coding interviews
+- Integrated video, chat and AI-assisted evaluation
+- React, Node.js, MongoDB
 
-<br/>
+### [DigiHand](https://github.com/Abhiwagh419/DigiHand)
+Handwritten character recognition and digitization.
+- CNN-based character classification
+- OpenCV-based segmentation and arithmetic evaluation
+- Python, PyTorch, Flask
 
-## Featured Work
+## Technologies
 
-### QuickConcession
-Full-stack railway concession management platform for Government Polytechnic Mumbai — replacing a manual, paper-based process with a secure, role-based system across Student, Staff, and Admin tiers.
+**Languages:** JavaScript · TypeScript · Python · Java · C
 
-**Highlights:** OTP-verified auth · real-time chat · bulk CSV import with validation · automated concession expiry via cron
+**Frontend:** React · HTML · CSS · Tailwind CSS
 
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Firebase`
+**Backend:** Node.js · Express · Flask · REST APIs
 
-**[Live →](https://quickconcession.online)**
+**Databases:** PostgreSQL · MongoDB · SQLite
 
-<br/>
+**Tools:** Git · GitHub · Postman · Linux
 
-## Tech Stack
+**AI/ML:** PyTorch · OpenCV · Computer Vision
 
-<div align="center">
+## Connect
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<!-- Generated by snake.yml — see setup notes at the bottom -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiwagh419/Abhiwagh419/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Abhiwagh419/Abhiwagh419/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
-## Stats & Activity
-
-<div align="center">
-
-<!-- All of these are generated once by metrics.yml and committed as static files —
-     they never depend on a third-party server being up when someone views your profile. -->
-
-<img src="./metrics.stats.svg" alt="GitHub profile overview"/>
-
-<br/>
-
-<img src="./metrics.calendar.svg" alt="Isometric contribution calendar"/>
-
-<br/>
-
-<img src="./metrics.languages.svg" alt="Most used languages"/>
-
-<br/>
-
-<img src="./metrics.languages.recent.svg" alt="Recently used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Abhiwagh419&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"/>
-
-</div>
-
-<br/>
-
-## Achievements
-
-<div align="center">
-
-<img src="./metrics.achievements.svg" alt="GitHub achievements"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-**Abhishek Wagh**
-&nbsp;|&nbsp; [wabhi2009@gmail.com](mailto:wabhi2009@gmail.com)
-&nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/abhishek-wagh-6a2b5332b/)
-&nbsp;|&nbsp; [Instagram](https://www.instagram.com/mr_abhishek_wagh/)
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/abhiwagh419/)
+- [Email](mailto:wabhi2009@gmail.com)
+- [GitHub](https://github.com/Abhiwagh419)
