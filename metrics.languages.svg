@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.7612526427085" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="312.7612526427085" y="0" width="131.26897805625586" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.0302306989643" y="0" width="15.28713156116371" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.31736226012805" y="0" width="0.6826377398719747" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="314.31888954470514" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="314.31888954470514" y="0" width="129.62286039932428" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.9417499440295" y="0" width="15.369507255815847" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.31125719984533" y="0" width="0.6887428001546823" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.55 MB</div>
+                                <div>1.54 MB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,7 +47,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>75.7 kB</div>
+                                <div>75.5 kB</div>
                             </small>
                         </div>
                     </section>
@@ -60,7 +60,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>650 kB</div>
+                                <div>636 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
